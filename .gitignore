@@ -130,4 +130,4 @@ dmypy.json
 
 # add
 *.tar.gz
-/data
+data/
